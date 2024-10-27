@@ -1,0 +1,1 @@
+Custom JSON tokenizer, parser and tokeniser written in TypeScript
